@@ -1,5 +1,5 @@
 PATH
-  remote: ../
+  remote: ..
   specs:
     counter-cache (0.3.0)
       activerecord (>= 3.0)
@@ -106,4 +106,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   1.12.1
+   1.15.4
