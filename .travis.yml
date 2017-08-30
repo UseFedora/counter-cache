@@ -1,5 +1,4 @@
 rvm:
-  - "2.1.1"
   - "2.3.0"
 gemfile:
   - gemfiles/activerecord_3.gemfile
